@@ -5,7 +5,7 @@ This is an application for processing customer orders for a warehouse. Relationa
 ## Usage
 The application can be run with the following command :
 ```
-java -jar PT2020_30221_Tudor_Alexuc_Assignment_3.jar commands.txt
+java -jar OrderManager.jar commands.txt
 ```
 
 ![Command Table](https://imgur.com/c4Gitb9.jpg)
