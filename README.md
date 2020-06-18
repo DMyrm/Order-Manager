@@ -17,5 +17,7 @@ There is an example in the repository.
 
 The application will generate a series of reports in pdf format based on the commands used. Some examples of these files can be seen in the PDFReports folder in the repository.
 
+PDF format examples :
+
 ![Client report](https://imgur.com/PPtl6ti.jpg)
 ![Product report](https://imgur.com/PStDU9M.png)
